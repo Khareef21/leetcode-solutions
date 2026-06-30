@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Khareef21/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/Khareef21/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Khareef21/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Khareef21/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
