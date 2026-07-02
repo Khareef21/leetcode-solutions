@@ -1,25 +1,22 @@
 from math import ceil
+
 class Solution:
-    def time(self, piles, mid):
+    def time(self, piles, speed):
         total_time = 0
         for i in range(len(piles)):
-            total_time += ceil(piles[i] / mid)
+            total_time += ceil(piles[i] / speed)
         return total_time
+
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        max_value = piles[0]
-        for i in range(1, len(piles)):
-            if piles[i] > max_value:
-                max_value = piles[i]
-        low=1
-        high=max_value
-        # ans=float('inf')
-        while low<=high:
-            mid=low+(high-low)//2
-            req_time=self.time(piles,mid)
-            if req_time <=h:
-                # ans=mid
-                high=mid-1
+        low = 1
+        high = max(piles)
+
+        while low <= high:
+            mid = low + (high - low) // 2
+
+            if self.time(piles, mid) <= h:
+                high = mid - 1
             else:
-                low=mid+1
-        # return ans
-        return low 
+                low = mid + 1
+
+        return low
