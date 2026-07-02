@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/Khareef21/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0162-find-peak-element](https://github.com/Khareef21/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khareef21/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Khareef21/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [0069-sqrtx](https://github.com/Khareef21/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Khareef21/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khareef21/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Khareef21/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
