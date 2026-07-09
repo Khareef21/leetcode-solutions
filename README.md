@@ -15,6 +15,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khareef21/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Khareef21/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Khareef21/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Khareef21/leetcode-solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khareef21/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Khareef21/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Khareef21/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Khareef21/leetcode-solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
