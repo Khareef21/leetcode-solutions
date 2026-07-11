@@ -18,6 +18,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Khareef21/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Khareef21/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Khareef21/leetcode-solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Khareef21/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +76,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khareef21/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2643-row-with-maximum-ones](https://github.com/Khareef21/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 <!---LeetCode Topics End-->
