@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Khareef21/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Khareef21/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0162-find-peak-element](https://github.com/Khareef21/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Khareef21/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -38,6 +39,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Khareef21/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/Khareef21/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Khareef21/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Khareef21/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -69,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Khareef21/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Khareef21/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
