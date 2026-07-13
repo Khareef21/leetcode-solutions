@@ -21,6 +21,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Khareef21/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Khareef21/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Khareef21/leetcode-solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Khareef21/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Khareef21/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Khareef21/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Khareef21/leetcode-solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,5 +91,6 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Khareef21/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Khareef21/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 <!---LeetCode Topics End-->
