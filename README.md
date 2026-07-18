@@ -29,6 +29,7 @@
 | [0042-trapping-rain-water](https://github.com/Khareef21/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Khareef21/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Khareef21/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +94,8 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Khareef21/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
