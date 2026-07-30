@@ -33,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/Khareef21/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Khareef21/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Khareef21/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Khareef21/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -89,11 +90,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Khareef21/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Khareef21/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khareef21/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0148-sort-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -115,6 +118,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Khareef21/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Khareef21/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -140,4 +144,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
