@@ -78,6 +78,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Khareef21/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/Khareef21/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Khareef21/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## String
@@ -115,6 +116,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Khareef21/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Khareef21/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Khareef21/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
@@ -139,6 +141,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Khareef21/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Khareef21/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Khareef21/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Khareef21/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
