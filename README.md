@@ -53,6 +53,7 @@
 | [0042-trapping-rain-water](https://github.com/Khareef21/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Khareef21/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/Khareef21/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Khareef21/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@
 | [0234-palindrome-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0707-design-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
