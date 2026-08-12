@@ -52,6 +52,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Khareef21/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Khareef21/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Monotonic Stack
@@ -160,6 +161,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Khareef21/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -174,4 +176,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Khareef21/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Khareef21/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
