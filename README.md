@@ -19,6 +19,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khareef21/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Khareef21/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Khareef21/leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Khareef21/leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Khareef21/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Khareef21/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Khareef21/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -57,6 +58,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Khareef21/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Khareef21/leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Khareef21/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Khareef21/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Khareef21/leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
