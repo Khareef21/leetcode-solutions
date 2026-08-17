@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/Khareef21/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Khareef21/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Khareef21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khareef21/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Khareef21/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Khareef21/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -58,11 +59,13 @@
 | [0232-implement-queue-using-stacks](https://github.com/Khareef21/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Khareef21/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Khareef21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Khareef21/leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Khareef21/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Khareef21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +165,7 @@
 | [0141-linked-list-cycle](https://github.com/Khareef21/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Khareef21/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Khareef21/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Khareef21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
